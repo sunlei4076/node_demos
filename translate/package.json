@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "opencc": "^1.0.5",
     "pinyin": "^2.8.3"
   }
 }

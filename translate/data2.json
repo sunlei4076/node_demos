@@ -1,6 +1,6 @@
 [
     {
-        "CatagoryName": "首 页",
+        "CatagoryName": "首 頁",
         "CatagoryID": "100000000",
         "Level": 1,
         "Position": 1,
@@ -14,8 +14,7 @@
                     {
                         "ID": 102,
                         "ProductID": "ecs10001",
-                        "ProductName": "特润修护肌透精华露",
-                        "ProductDes": "由眼及面，放大肌肤修护力",
+                        "ProductName": "特潤修護肌透精華露",
                         "ProductSpecification": "50ml",
                         "ProductPrice": 850,
                         "ProductFocus": "terunxiuhujitoujinghualou",
@@ -27,13 +26,13 @@
                         "ProductVideo": [],
                         "ProductRecommendation": [
                             "ecs10003",
-                            "ecs30005",
+                            "ecs10004",
                             "ecs10009"
                         ],
                         "ProductRecommendationDes": [
-                            "开启赋活通道，加乘修护力",
-                            "凝锁弹润，留驻“睛”彩",
-                            "立体驻颜，肌肤水润，轮廓年轻"
+                            "開啓賦活通道，加乘修護力",
+                            "凝鎖彈潤，留駐“睛”彩",
+                            "立體駐顏，肌膚水潤，輪廓年輕"
                         ],
                         "ProductDisplay": 1,
                         "ProductStatus": 1
@@ -41,8 +40,7 @@
                     {
                         "ID": 103,
                         "ProductID": "ecs10002",
-                        "ProductName": "密集修护肌透面膜",
-                        "ProductDes": "深彻修护，定格年轻",
+                        "ProductName": "密集修護肌透面膜",
                         "ProductSpecification": "4片",
                         "ProductPrice": 680,
                         "ProductFocus": "mijixiuhujitoumianmo",
@@ -57,8 +55,7 @@
             {
                 "ID": 104,
                 "ProductID": "ecs10003",
-                "ProductName": "肌底微精华",
-                "ProductDes": "抹去肌肤疲劳感，萤润光彩尽现",
+                "ProductName": "肌底微精華",
                 "ProductSpecification": "150ml",
                 "ProductPrice": 760,
                 "ProductFocus": "jidiweijinghua",
@@ -74,9 +71,9 @@
                     "ecs10008"
                 ],
                 "ProductRecommendationDes": [
-                    "修护双精华，深达肌底修护肌因",
-                    "由眼及面，修护滋养层层递进",
-                    "双效加乘，由内而外赋活美肌"
+                    "修護雙精華，深達肌底修護肌因",
+                    "由眼及面，修護滋養層層遞進",
+                    "雙效加乘，由內而外賦活美肌"
                 ],
                 "ProductDisplay": 1,
                 "ProductStatus": 1
@@ -89,8 +86,7 @@
                     {
                         "ID": 106,
                         "ProductID": "ecs10004",
-                        "ProductName": "肌透修护眼部密集精华露",
-                        "ProductDes": "由眼及面，修护滋养 层层递进",
+                        "ProductName": "肌透修護眼部密集精華露",
                         "ProductSpecification": "15ml",
                         "ProductPrice": 560,
                         "ProductFocus": "jitouxiuhuyanbumijijinghualou",
@@ -106,9 +102,9 @@
                             "ecs30005"
                         ],
                         "ProductRecommendationDes": [
-                            "由眼及面，放大肌肤修护力",
-                            "抹去肌肤疲劳感，萤润光彩尽现",
-                            "眼周注入双倍精华，瞬间“电力”满格"
+                            "由眼及面，放大肌膚修護力",
+                            "抹去肌膚疲勞感，螢潤光彩盡現",
+                            "眼周注入雙倍精華，瞬間“電力”滿格"
                         ],
                         "ProductDisplay": 1,
                         "ProductStatus": 1
@@ -116,7 +112,7 @@
                     {
                         "ID": 107,
                         "ProductID": "ecs10005",
-                        "ProductName": "小棕瓶密集修护眼精华",
+                        "ProductName": "小棕瓶密集修護眼精華",
                         "ProductSpecification": "15ml",
                         "ProductPrice": 590,
                         "ProductFocus": "xiaozongpingmijixiuhuyanjinghua",
@@ -132,9 +128,9 @@
                             "ecs30005"
                         ],
                         "ProductRecommendationDes": [
-                            "由眼及面完美修护",
-                            "水润第一步，从赋活健康肌底开始",
-                            "年轻大眼搭档，keep眼周最佳状态"
+                            "由眼及面完美修護",
+                            "水潤第一步，從賦活健康肌底開始",
+                            "年輕大眼搭檔，keep眼周最佳狀態"
                         ],
                         "ProductDisplay": 1,
                         "ProductStatus": 1
@@ -149,7 +145,7 @@
                     {
                         "ID": 109,
                         "ProductID": "ecs10006",
-                        "ProductName": "鲜活亮采能量水",
+                        "ProductName": "鮮活亮採能量水",
                         "ProductSpecification": "200ml",
                         "ProductPrice": 420,
                         "ProductFocus": "xianhuoliangcainengliangshui",
@@ -162,7 +158,7 @@
                     {
                         "ID": 110,
                         "ProductID": "ecs10007",
-                        "ProductName": "鲜亮焕采泡沫洁面乳",
+                        "ProductName": "鮮亮煥採泡沫潔面乳",
                         "ProductSpecification": "125ml",
                         "ProductPrice": 280,
                         "ProductFocus": "xianlianghuancaipaomojiemianru",
@@ -177,8 +173,7 @@
             {
                 "ID": 111,
                 "ProductID": "ecs10008",
-                "ProductName": "多效智妍精华霜",
-                "ProductDes": "双效加乘，由内而外 赋活美肌",
+                "ProductName": "多效智妍精華霜",
                 "ProductSpecification": "75ml",
                 "ProductPrice": 920,
                 "ProductFocus": "duoxiaozhiyanjinghuashuang",
@@ -194,9 +189,9 @@
                     "ecs10002"
                 ],
                 "ProductRecommendationDes": [
-                    "解决肌肤问题，从修护肌底微损伤开始",
-                    "水润第一步，从赋活健康肌底开始",
-                    "深彻修护，定格年轻"
+                    "解決肌膚問題，從修護肌底微損傷開始",
+                    "水潤第一步，從賦活健康肌底開始",
+                    "深徹修護，定格年輕"
                 ],
                 "ProductDisplay": 1,
                 "ProductStatus": 1
@@ -204,8 +199,7 @@
             {
                 "ID": 112,
                 "ProductID": "ecs10009",
-                "ProductName": "专研紧塑精华素",
-                "ProductDes": "立体驻颜，肌肤水润，轮廓年轻",
+                "ProductName": "專研緊塑精華素",
                 "ProductSpecification": "50ml",
                 "ProductPrice": 980,
                 "ProductFocus": "zhuanyanjinsujinghuasu",
@@ -221,17 +215,17 @@
                     "ecs10004"
                 ],
                 "ProductRecommendationDes": [
-                    "多方位提拉紧致加乘密集修护力，美肌宛若天生",
-                    "全脸立体支撑，卓效焕活肌肤",
-                    "由眼及面，紧致年轻轮廓"
-                ], 
+                    "多方位提拉緊緻加乘密集修護力，美肌宛若天生",
+                    "全臉立體支撐，卓效煥活肌膚",
+                    "由眼及面，緊緻年輕輪廓"
+                ],
                 "ProductDisplay": 1,
                 "ProductStatus": 1
             },
             {
                 "ID": 113,
                 "ProductID": "ecs10010",
-                "ProductName": "晶透沁白防晒霜",
+                "ProductName": "晶透沁白防曬霜",
                 "ProductSpecification": "SPF30+/PA+++ 30ml",
                 "ProductPrice": 520,
                 "ProductFocus": "jingtouqinbaifangshaishuang",
@@ -246,9 +240,9 @@
                     "ecs40003"
                 ],
                 "ProductRecommendationDes": [
-                    "高倍防晒无惧阳光，肌肤加享不惧油汗底妆",
-                    "水感亲肤，底妆轻薄更持久",
-                    "肌肤悦享轻盈防护，多彩唇色更添元气"
+                    "高倍防曬無懼陽光，肌膚加享不懼油汗底妝",
+                    "水感親膚，底妝輕薄更持久",
+                    "肌膚悅享輕盈防護，多彩脣色更添元氣"
                 ],
                 "ProductDisplay": 1,
                 "ProductStatus": 1
@@ -256,8 +250,7 @@
             {
                 "ID": 114,
                 "ProductID": "ecs10011",
-                "ProductName": "蕴能黑钻睡眠面膜",
-                "ProductDes": "层层渗透，深润焕白",
+                "ProductName": "蘊能黑鑽睡眠面膜",
                 "ProductSpecification": "50ml",
                 "ProductPrice": 3600,
                 "ProductFocus": "yunnengheizuanshuimianmianmo",
@@ -275,8 +268,7 @@
                     {
                         "ID": 117,
                         "ProductID": "ecs10013",
-                        "ProductName": "持妆粉底液",
-                        "ProductDes": "抗油抗汗不脱妆，完美妆容即刻展现",
+                        "ProductName": "持妝粉底液",
                         "ProductSpecification": "30ml",
                         "ProductPrice": 390,
                         "ProductFocus": "chizhuangfendiye",
@@ -291,9 +283,9 @@
                             "ecs10014"
                         ],
                         "ProductRecommendationDes": [
-                            "底妆水润加倍，持久无瑕",
-                            "双眸焕亮睛采，底妆整日无瑕",
-                            "无惧油汗底妆，气色整日在线"
+                            "底妝水潤加倍，持久無瑕",
+                            "雙眸煥亮睛採，底妝整日無瑕",
+                            "無懼油汗底妝，氣色整日在線"
                         ],
                         "ProductDisplay": 1,
                         "ProductStatus": 1
@@ -301,7 +293,7 @@
                     {
                         "ID": 116,
                         "ProductID": "ecs10012",
-                        "ProductName": "持妆无瑕气垫",
+                        "ProductName": "持妝無瑕氣墊",
                         "ProductSpecification": "12g",
                         "ProductPrice": 420,
                         "ProductFocus": "chizhuangwuxiaqidian",
@@ -316,9 +308,9 @@
                             "ecs10014"
                         ],
                         "ProductRecommendationDes": [
-                            "完美底妆，从紧弹亮润肌底开始",
-                            "美肌状态满分，妆容时刻再现",
-                            "显色持久，妆容出众"
+                            "完美底妝，從緊彈亮潤肌底開始",
+                            "美肌狀態滿分，妝容時刻再現",
+                            "顯色持久，妝容出衆"
                         ],
                         "ProductDisplay": 1,
                         "ProductStatus": 1
@@ -328,8 +320,7 @@
             {
                 "ID": 118,
                 "ProductID": "ecs10014",
-                "ProductName": "倾慕唇膏系列",
-                "ProductDes": "显色持久，妆容出众",
+                "ProductName": "傾慕脣膏系列",
                 "ProductSpecification": "3.5g",
                 "ProductPrice": 300,
                 "ProductFocus": "qingmuchungaoxilie",
@@ -345,9 +336,9 @@
                     "ecs40004"
                 ],
                 "ProductRecommendationDes": [
-                    "抗油抗汗不脱妆，完美妆容即刻展现",
-                    "一抹轻盈水润，妆容更出色",
-                    "妆前打底，美唇梗滋润"
+                    "抗油抗汗不脫妝，完美妝容即刻展現",
+                    "一抹輕盈水潤，妝容更出色",
+                    "妝前打底，美脣梗滋潤"
                 ],
                 "ProductDisplay": 1,
                 "ProductStatus": 1
@@ -355,13 +346,13 @@
         ]
     },
     {
-        "CatagoryName": "奢宠白金",
+        "CatagoryName": "奢寵白金",
         "CatagoryID": "200000000",
         "Level": 1,
         "Position": 2,
         "Child": [
             {
-                "CatagoryName": "黑钻系列",
+                "CatagoryName": "黑鑽系列",
                 "CatagoryID": "200100000",
                 "Level": 2,
                 "Position": 2001,
@@ -370,8 +361,7 @@
                     {
                         "ID": 114,
                         "ProductID": "ecs10011",
-                        "ProductName": "蕴能黑钻睡眠面膜",
-                        "ProductDes": "层层渗透，深润焕白",
+                        "ProductName": "蘊能黑鑽睡眠面膜",
                         "ProductSpecification": "50ml",
                         "ProductPrice": 3600,
                         "ProductFocus": "yunnengheizuanshuimianmianmo",
@@ -384,8 +374,7 @@
                     {
                         "ID": 201,
                         "ProductID": "ecs20002",
-                        "ProductName": "蕴能黑钻奢华眼霜",
-                        "ProductDes": "双眸焕发傲视光采， 悦享奢润养肤能量",
+                        "ProductName": "蘊能黑鑽奢華眼霜",
                         "ProductSpecification": "15ml",
                         "ProductPrice": 2500,
                         "ProductFocus": "yunnengheizuanshehuayanshuang",
@@ -398,8 +387,7 @@
                     {
                         "ID": 202,
                         "ProductID": "ecs20003",
-                        "ProductName": "蕴能双钻精华露",
-                        "ProductDes": "愈见透亮，耀出美肌",
+                        "ProductName": "蘊能雙鑽精華露",
                         "ProductSpecification": "25ml",
                         "ProductPrice": 3800,
                         "ProductFocus": "yunnengshuangzuanjinghualou",
@@ -421,8 +409,7 @@
                     {
                         "ID": 203,
                         "ProductID": "ecs20004",
-                        "ProductName": "花菁萃紧颜精粹水",
-                        "ProductDes": "紧致白皙，一键拥有",
+                        "ProductName": "花菁萃緊顏精粹水",
                         "ProductSpecification": "200ml",
                         "ProductPrice": 880,
                         "ProductFocus": "huajingcuijinyanjingcuishui",
@@ -435,7 +422,7 @@
                     {
                         "ID": 204,
                         "ProductID": "ecs20005",
-                        "ProductName": "花菁萃紧颜蜜露精华",
+                        "ProductName": "花菁萃緊顏蜜露精華",
                         "ProductSpecification": "30ml",
                         "ProductPrice": 2500,
                         "ProductFocus": "huajingcuijinyanmiloujinghua",
@@ -448,7 +435,7 @@
                     {
                         "ID": 205,
                         "ProductID": "ecs20006",
-                        "ProductName": "花菁萃紧颜焕活眼霜",
+                        "ProductName": "花菁萃緊顏煥活眼霜",
                         "ProductSpecification": "15ml",
                         "ProductPrice": 980,
                         "ProductFocus": "huajingcuijinyanhuanhuoyanshuang",
@@ -461,8 +448,7 @@
                     {
                         "ID": 206,
                         "ProductID": "ecs20007",
-                        "ProductName": "花菁萃紧颜焕活滋养霜",
-                        "ProductDes": "激活肌肤非凡自愈能量，肌肤自然焕发宝石光芒",
+                        "ProductName": "花菁萃緊顏煥活滋養霜",
                         "ProductSpecification": "50ml",
                         "ProductPrice": 2500,
                         "ProductFocus": "huajingcuijinyanhuanhuoziyangshuang",
@@ -484,7 +470,7 @@
                     {
                         "ID": 207,
                         "ProductID": "ecs20008",
-                        "ProductName": "白金级花菁萃紧颜焕亮面霜",
+                        "ProductName": "白金級花菁萃緊顏煥亮面霜",
                         "ProductSpecification": "50ml",
                         "ProductPrice": 2500,
                         "ProductFocus": "baijinjihuajingcuijinyanhuanliangmianshuang",
@@ -497,7 +483,7 @@
                     {
                         "ID": 208,
                         "ProductID": "ecs20009",
-                        "ProductName": "白金级花菁萃紧颜焕亮精华",
+                        "ProductName": "白金級花菁萃緊顏煥亮精華",
                         "ProductSpecification": "30ml",
                         "ProductPrice": 2500,
                         "ProductFocus": "baijinjihuajingcuijinyanhuanliangjinghua",
@@ -513,19 +499,19 @@
         "Product": []
     },
     {
-        "CatagoryName": "护 肤",
+        "CatagoryName": "護 膚",
         "CatagoryID": "300000000",
         "Level": 1,
         "Position": 3,
         "Child": [
             {
-                "CatagoryName": "产品分类",
+                "CatagoryName": "產品分類",
                 "CatagoryID": "300200000",
                 "Level": 2,
                 "Position": 3002,
                 "Child": [
                     {
-                        "CatagoryName": "防晒隔离",
+                        "CatagoryName": "防曬隔離",
                         "CatagoryID": "300200700",
                         "Level": 3,
                         "Position": 300207,
@@ -534,7 +520,7 @@
                             {
                                 "ID": 113,
                                 "ProductID": "ecs10010",
-                                "ProductName": "晶透沁白防晒霜",
+                                "ProductName": "晶透沁白防曬霜",
                                 "ProductSpecification": "SPF30+/PA+++ 30ml",
                                 "ProductPrice": 520,
                                 "ProductFocus": "jingtouqinbaifangshaishuang",
@@ -549,9 +535,9 @@
                                     "ecs40003"
                                 ],
                                 "ProductRecommendationDes": [
-                                    "高倍防晒无惧阳光，肌肤加享不惧油汗底妆",
-                                    "水感亲肤，底妆轻薄更持久",
-                                    "肌肤悦享轻盈防护，多彩唇色更添元气"
+                                    "高倍防曬無懼陽光，肌膚加享不懼油汗底妝",
+                                    "水感親膚，底妝輕薄更持久",
+                                    "肌膚悅享輕盈防護，多彩脣色更添元氣"
                                 ],
                                 "ProductDisplay": 1,
                                 "ProductStatus": 1
@@ -559,7 +545,7 @@
                         ]
                     },
                     {
-                        "CatagoryName": "卸妆清洁",
+                        "CatagoryName": "卸妝清潔",
                         "CatagoryID": "300200600",
                         "Level": 3,
                         "Position": 300206,
@@ -568,7 +554,7 @@
                             {
                                 "ID": 110,
                                 "ProductID": "ecs10007",
-                                "ProductName": "鲜亮焕采泡沫洁面乳",
+                                "ProductName": "鮮亮煥採泡沫潔面乳",
                                 "ProductSpecification": "125ml",
                                 "ProductPrice": 280,
                                 "ProductFocus": "xianlianghuancaipaomojiemianru",
@@ -581,7 +567,7 @@
                             {
                                 "ID": 302,
                                 "ProductID": "ecs30002",
-                                "ProductName": "告别油光海藻洁面泡泡",
+                                "ProductName": "告別油光海藻潔面泡泡",
                                 "ProductSpecification": "125ml",
                                 "ProductPrice": 250,
                                 "ProductFocus": "gaobieyouguanghaizaojiemianpaopao",
@@ -594,7 +580,7 @@
                             {
                                 "ID": 303,
                                 "ProductID": "ecs30003",
-                                "ProductName": "告别油光海藻魔力皂",
+                                "ProductName": "告別油光海藻魔力皁",
                                 "ProductSpecification": "100g",
                                 "ProductPrice": 220,
                                 "ProductFocus": "gaobieyouguanghaizaomolizao",
@@ -607,7 +593,7 @@
                         ]
                     },
                     {
-                        "CatagoryName": "眼部护理",
+                        "CatagoryName": "眼部護理",
                         "CatagoryID": "300200500",
                         "Level": 3,
                         "Position": 300205,
@@ -616,8 +602,7 @@
                             {
                                 "ID": 106,
                                 "ProductID": "ecs10004",
-                                "ProductName": "肌透修护眼部密集精华露",
-                                "ProductDes": "由眼及面，修护滋养 层层递进",
+                                "ProductName": "肌透修護眼部密集精華露",
                                 "ProductSpecification": "15ml",
                                 "ProductPrice": 560,
                                 "ProductFocus": "jitouxiuhuyanbumijijinghualou",
@@ -633,9 +618,9 @@
                                     "ecs30005"
                                 ],
                                 "ProductRecommendationDes": [
-                                    "由眼及面，放大肌肤修护力",
-                                    "抹去肌肤疲劳感，萤润光彩尽现",
-                                    "眼周注入双倍精华，瞬间“电力”满格"
+                                    "由眼及面，放大肌膚修護力",
+                                    "抹去肌膚疲勞感，螢潤光彩盡現",
+                                    "眼周注入雙倍精華，瞬間“電力”滿格"
                                 ],
                                 "ProductDisplay": 1,
                                 "ProductStatus": 1
@@ -643,9 +628,8 @@
                             {
                                 "ID": 305,
                                 "ProductID": "ecs30005",
-                                "ProductName": "肌透修护密集精华眼膜",
-                                "ProductDes": "抹去肌肤疲劳感，萤润光彩尽现",
-                                "ProductSpecification": "4对",
+                                "ProductName": "肌透修護密集精華眼膜",
+                                "ProductSpecification": "4對",
                                 "ProductPrice": 300,
                                 "ProductFocus": "jitouxiuhumijijinghuayanmo",
                                 "ProductContent": [],
@@ -657,7 +641,7 @@
                             {
                                 "ID": 107,
                                 "ProductID": "ecs10005",
-                                "ProductName": "小棕瓶密集修护眼精华",
+                                "ProductName": "小棕瓶密集修護眼精華",
                                 "ProductSpecification": "15ml",
                                 "ProductPrice": 590,
                                 "ProductFocus": "xiaozongpingmijixiuhuyanjinghua",
@@ -673,9 +657,9 @@
                                     "ecs30005"
                                 ],
                                 "ProductRecommendationDes": [
-                                    "由眼及面完美修护",
-                                    "水润第一步，从赋活健康肌底开始",
-                                    "年轻大眼搭档，keep眼周最佳状态"
+                                    "由眼及面完美修護",
+                                    "水潤第一步，從賦活健康肌底開始",
+                                    "年輕大眼搭檔，keep眼周最佳狀態"
                                 ],
                                 "ProductDisplay": 1,
                                 "ProductStatus": 1
@@ -683,8 +667,7 @@
                             {
                                 "ID": 201,
                                 "ProductID": "ecs20002",
-                                "ProductName": "蕴能黑钻奢华眼霜",
-                                "ProductDes": "双眸焕发傲视光采， 悦享奢润养肤能量",
+                                "ProductName": "蘊能黑鑽奢華眼霜",
                                 "ProductSpecification": "15ml",
                                 "ProductPrice": 2500,
                                 "ProductFocus": "yunnengheizuanshehuayanshuang",
@@ -697,7 +680,7 @@
                             {
                                 "ID": 205,
                                 "ProductID": "ecs20006",
-                                "ProductName": "花菁萃紧颜焕活眼霜",
+                                "ProductName": "花菁萃緊顏煥活眼霜",
                                 "ProductSpecification": "15ml",
                                 "ProductPrice": 980,
                                 "ProductFocus": "huajingcuijinyanhuanhuoyanshuang",
@@ -719,8 +702,7 @@
                             {
                                 "ID": 103,
                                 "ProductID": "ecs10002",
-                                "ProductName": "密集修护肌透面膜",
-                                "ProductDes": "深彻修护，定格年轻",
+                                "ProductName": "密集修護肌透面膜",
                                 "ProductSpecification": "4片",
                                 "ProductPrice": 680,
                                 "ProductFocus": "mijixiuhujitoumianmo",
@@ -733,8 +715,7 @@
                             {
                                 "ID": 114,
                                 "ProductID": "ecs10011",
-                                "ProductName": "蕴能黑钻睡眠面膜",
-                                "ProductDes": "层层渗透，深润焕白",
+                                "ProductName": "蘊能黑鑽睡眠面膜",
                                 "ProductSpecification": "50ml",
                                 "ProductPrice": 3600,
                                 "ProductFocus": "yunnengheizuanshuimianmianmo",
@@ -747,7 +728,7 @@
                         ]
                     },
                     {
-                        "CatagoryName": "修护精华",
+                        "CatagoryName": "修護精華",
                         "CatagoryID": "300200300",
                         "Level": 3,
                         "Position": 300203,
@@ -756,8 +737,7 @@
                             {
                                 "ID": 102,
                                 "ProductID": "ecs10001",
-                                "ProductName": "特润修护肌透精华露",
-                                "ProductDes": "由眼及面，放大肌肤修护力",
+                                "ProductName": "特潤修護肌透精華露",
                                 "ProductSpecification": "50ml",
                                 "ProductPrice": 850,
                                 "ProductFocus": "terunxiuhujitoujinghualou",
@@ -769,13 +749,13 @@
                                 "ProductVideo": [],
                                 "ProductRecommendation": [
                                     "ecs10003",
-                                    "ecs30005",
+                                    "ecs10004",
                                     "ecs10009"
                                 ],
                                 "ProductRecommendationDes": [
-                                    "开启赋活通道，加乘修护力",
-                                    "凝锁弹润，留驻“睛”彩",
-                                    "立体驻颜，肌肤水润，轮廓年轻"
+                                    "開啓賦活通道，加乘修護力",
+                                    "凝鎖彈潤，留駐“睛”彩",
+                                    "立體駐顏，肌膚水潤，輪廓年輕"
                                 ],
                                 "ProductDisplay": 1,
                                 "ProductStatus": 1
@@ -783,7 +763,7 @@
                             {
                                 "ID": 310,
                                 "ProductID": "ecs30010",
-                                "ProductName": "特润修护肌透精华胶囊",
+                                "ProductName": "特潤修護肌透精華膠囊",
                                 "ProductSpecification": "60粒",
                                 "ProductPrice": 1060,
                                 "ProductFocus": "terunxiuhujitoujinghuajiaonang",
@@ -796,7 +776,7 @@
                             {
                                 "ID": 311,
                                 "ProductID": "ecs30011",
-                                "ProductName": "肌透修护面膜精萃蜜",
+                                "ProductName": "肌透修護面膜精萃蜜",
                                 "ProductSpecification": "30ml",
                                 "ProductPrice": 680,
                                 "ProductFocus": "jitouxiuhumianmojingcuimi",
@@ -809,8 +789,7 @@
                             {
                                 "ID": 202,
                                 "ProductID": "ecs20003",
-                                "ProductName": "蕴能双钻精华露",
-                                "ProductDes": "愈见透亮，耀出美肌",
+                                "ProductName": "蘊能雙鑽精華露",
                                 "ProductSpecification": "25ml",
                                 "ProductPrice": 3800,
                                 "ProductFocus": "yunnengshuangzuanjinghualou",
@@ -823,7 +802,7 @@
                             {
                                 "ID": 204,
                                 "ProductID": "ecs20005",
-                                "ProductName": "花菁萃紧颜蜜露精华",
+                                "ProductName": "花菁萃緊顏蜜露精華",
                                 "ProductSpecification": "30ml",
                                 "ProductPrice": 2500,
                                 "ProductFocus": "huajingcuijinyanmiloujinghua",
@@ -836,8 +815,7 @@
                             {
                                 "ID": 112,
                                 "ProductID": "ecs10009",
-                                "ProductName": "专研紧塑精华素",
-                                "ProductDes": "立体驻颜，肌肤水润，轮廓年轻",
+                                "ProductName": "專研緊塑精華素",
                                 "ProductSpecification": "50ml",
                                 "ProductPrice": 980,
                                 "ProductFocus": "zhuanyanjinsujinghuasu",
@@ -853,17 +831,17 @@
                                     "ecs10004"
                                 ],
                                 "ProductRecommendationDes": [
-                                    "多方位提拉紧致加乘密集修护力，美肌宛若天生",
-                                    "全脸立体支撑，卓效焕活肌肤",
-                                    "由眼及面，紧致年轻轮廓"
-                                ],        
+                                    "多方位提拉緊緻加乘密集修護力，美肌宛若天生",
+                                    "全臉立體支撐，卓效煥活肌膚",
+                                    "由眼及面，緊緻年輕輪廓"
+                                ],
                                 "ProductDisplay": 1,
                                 "ProductStatus": 1
                             },
                             {
                                 "ID": 208,
                                 "ProductID": "ecs20009",
-                                "ProductName": "白金级花菁萃紧颜焕亮精华",
+                                "ProductName": "白金級花菁萃緊顏煥亮精華",
                                 "ProductSpecification": "30ml",
                                 "ProductPrice": 2500,
                                 "ProductFocus": "baijinjihuajingcuijinyanhuanliangjinghua",
@@ -876,7 +854,7 @@
                         ]
                     },
                     {
-                        "CatagoryName": "精华水",
+                        "CatagoryName": "精華水",
                         "CatagoryID": "300200200",
                         "Level": 3,
                         "Position": 300202,
@@ -885,8 +863,7 @@
                             {
                                 "ID": 104,
                                 "ProductID": "ecs10003",
-                                "ProductName": "肌底微精华",
-                                "ProductDes": "抹去肌肤疲劳感，萤润光彩尽现",
+                                "ProductName": "肌底微精華",
                                 "ProductSpecification": "150ml",
                                 "ProductPrice": 760,
                                 "ProductFocus": "jidiweijinghua",
@@ -902,9 +879,9 @@
                                     "ecs10008"
                                 ],
                                 "ProductRecommendationDes": [
-                                    "修护双精华，深达肌底修护肌因",
-                                    "由眼及面，修护滋养层层递进",
-                                    "双效加乘，由内而外赋活美肌"
+                                    "修護雙精華，深達肌底修護肌因",
+                                    "由眼及面，修護滋養層層遞進",
+                                    "雙效加乘，由內而外賦活美肌"
                                 ],
                                 "ProductDisplay": 1,
                                 "ProductStatus": 1
@@ -912,7 +889,7 @@
                             {
                                 "ID": 109,
                                 "ProductID": "ecs10006",
-                                "ProductName": "鲜活亮采能量水",
+                                "ProductName": "鮮活亮採能量水",
                                 "ProductSpecification": "200ml",
                                 "ProductPrice": 420,
                                 "ProductFocus": "xianhuoliangcainengliangshui",
@@ -925,7 +902,7 @@
                             {
                                 "ID": 315,
                                 "ProductID": "ecs30015",
-                                "ProductName": "反恐精英海藻摇摇水",
+                                "ProductName": "反恐精英海藻搖搖水",
                                 "ProductSpecification": "150ml",
                                 "ProductPrice": 350,
                                 "ProductFocus": "fankongjingyinghaizaoyaoyaoshui",
@@ -938,8 +915,7 @@
                             {
                                 "ID": 203,
                                 "ProductID": "ecs20004",
-                                "ProductName": "花菁萃紧颜精粹水",
-                                "ProductDes": "紧致白皙，一键拥有",
+                                "ProductName": "花菁萃緊顏精粹水",
                                 "ProductSpecification": "200ml",
                                 "ProductPrice": 880,
                                 "ProductFocus": "huajingcuijinyanjingcuishui",
@@ -961,7 +937,7 @@
                             {
                                 "ID": 316,
                                 "ProductID": "ecs30016",
-                                "ProductName": "鲜活亮采面霜",
+                                "ProductName": "鮮活亮採面霜",
                                 "ProductSpecification": "50ml",
                                 "ProductPrice": 590,
                                 "ProductFocus": "xianhuoliangcaimianshuang",
@@ -974,7 +950,7 @@
                             {
                                 "ID": 317,
                                 "ProductID": "ecs30017",
-                                "ProductName": "鲜活亮采晚霜",
+                                "ProductName": "鮮活亮採晚霜",
                                 "ProductSpecification": "50ml",
                                 "ProductPrice": 620,
                                 "ProductFocus": "xianhuoliangcaiwanshuang",
@@ -987,7 +963,7 @@
                             {
                                 "ID": 318,
                                 "ProductID": "ecs30018",
-                                "ProductName": "油田拜拜海藻精华乳",
+                                "ProductName": "油田拜拜海藻精華乳",
                                 "ProductSpecification": "100ml",
                                 "ProductPrice": 480,
                                 "ProductFocus": "youtianbaibaihaizaojinghuaru",
@@ -1000,8 +976,7 @@
                             {
                                 "ID": 206,
                                 "ProductID": "ecs20007",
-                                "ProductName": "花菁萃紧颜焕活滋养霜",
-                                "ProductDes": "激活肌肤非凡自愈能量，肌肤自然焕发宝石光芒",
+                                "ProductName": "花菁萃緊顏煥活滋養霜",
                                 "ProductSpecification": "50ml",
                                 "ProductPrice": 2500,
                                 "ProductFocus": "huajingcuijinyanhuanhuoziyangshuang",
@@ -1014,8 +989,7 @@
                             {
                                 "ID": 111,
                                 "ProductID": "ecs10008",
-                                "ProductName": "多效智妍精华霜",
-                                "ProductDes": "双效加乘，由内而外 赋活美肌",
+                                "ProductName": "多效智妍精華霜",
                                 "ProductSpecification": "75ml",
                                 "ProductPrice": 920,
                                 "ProductFocus": "duoxiaozhiyanjinghuashuang",
@@ -1031,9 +1005,9 @@
                                     "ecs10002"
                                 ],
                                 "ProductRecommendationDes": [
-                                    "解决肌肤问题，从修护肌底微损伤开始",
-                                    "水润第一步，从赋活健康肌底开始",
-                                    "深彻修护，定格年轻"
+                                    "解決肌膚問題，從修護肌底微損傷開始",
+                                    "水潤第一步，從賦活健康肌底開始",
+                                    "深徹修護，定格年輕"
                                 ],
                                 "ProductDisplay": 1,
                                 "ProductStatus": 1
@@ -1041,7 +1015,7 @@
                             {
                                 "ID": 319,
                                 "ProductID": "ecs30019",
-                                "ProductName": "白金级淡斑精华膏",
+                                "ProductName": "白金級淡斑精華膏",
                                 "ProductSpecification": "30ml",
                                 "ProductPrice": 1120,
                                 "ProductFocus": "baijinjidanbanjinghuagao",
@@ -1056,9 +1030,9 @@
                                     "ecs10011"
                                 ],
                                 "ProductRecommendationDes": [
-                                    "紧致白皙，一键拥有",
-                                    "愈见透亮，耀出美肌",
-                                    "层层渗透，深润焕白"
+                                    "緊緻白皙，一鍵擁有",
+                                    "愈見透亮，耀出美肌",
+                                    "層層滲透，深潤煥白"
                                 ],
                                 "ProductDisplay": 1,
                                 "ProductStatus": 1
@@ -1066,7 +1040,7 @@
                             {
                                 "ID": 207,
                                 "ProductID": "ecs20008",
-                                "ProductName": "白金级花菁萃紧颜焕亮面霜",
+                                "ProductName": "白金級花菁萃緊顏煥亮面霜",
                                 "ProductSpecification": "50ml",
                                 "ProductPrice": 2500,
                                 "ProductFocus": "baijinjihuajingcuijinyanhuanliangmianshuang",
@@ -1082,13 +1056,13 @@
                 "Product": []
             },
             {
-                "CatagoryName": "肌肤诉求",
+                "CatagoryName": "肌膚訴求",
                 "CatagoryID": "300100000",
                 "Level": 2,
                 "Position": 3001,
                 "Child": [
                     {
-                        "CatagoryName": "紧致毛孔",
+                        "CatagoryName": "緊緻毛孔",
                         "CatagoryID": "300100600",
                         "Level": 3,
                         "Position": 300106,
@@ -1097,8 +1071,7 @@
                             {
                                 "ID": 102,
                                 "ProductID": "ecs10001",
-                                "ProductName": "特润修护肌透精华露",
-                                "ProductDes": "由眼及面，放大肌肤修护力",
+                                "ProductName": "特潤修護肌透精華露",
                                 "ProductSpecification": "50ml",
                                 "ProductPrice": 850,
                                 "ProductFocus": "terunxiuhujitoujinghualou",
@@ -1110,13 +1083,13 @@
                                 "ProductVideo": [],
                                 "ProductRecommendation": [
                                     "ecs10003",
-                                    "ecs30005",
+                                    "ecs10004",
                                     "ecs10009"
                                 ],
                                 "ProductRecommendationDes": [
-                                    "开启赋活通道，加乘修护力",
-                                    "凝锁弹润，留驻“睛”彩",
-                                    "立体驻颜，肌肤水润，轮廓年轻"
+                                    "開啓賦活通道，加乘修護力",
+                                    "凝鎖彈潤，留駐“睛”彩",
+                                    "立體駐顏，肌膚水潤，輪廓年輕"
                                 ],
                                 "ProductDisplay": 1,
                                 "ProductStatus": 1
@@ -1124,8 +1097,7 @@
                             {
                                 "ID": 111,
                                 "ProductID": "ecs10008",
-                                "ProductName": "多效智妍精华霜",
-                                "ProductDes": "双效加乘，由内而外 赋活美肌",
+                                "ProductName": "多效智妍精華霜",
                                 "ProductSpecification": "75ml",
                                 "ProductPrice": 920,
                                 "ProductFocus": "duoxiaozhiyanjinghuashuang",
@@ -1141,9 +1113,9 @@
                                     "ecs10002"
                                 ],
                                 "ProductRecommendationDes": [
-                                    "解决肌肤问题，从修护肌底微损伤开始",
-                                    "水润第一步，从赋活健康肌底开始",
-                                    "深彻修护，定格年轻"
+                                    "解決肌膚問題，從修護肌底微損傷開始",
+                                    "水潤第一步，從賦活健康肌底開始",
+                                    "深徹修護，定格年輕"
                                 ],
                                 "ProductDisplay": 1,
                                 "ProductStatus": 1
@@ -1151,8 +1123,7 @@
                             {
                                 "ID": 203,
                                 "ProductID": "ecs20004",
-                                "ProductName": "花菁萃紧颜精粹水",
-                                "ProductDes": "紧致白皙，一键拥有",
+                                "ProductName": "花菁萃緊顏精粹水",
                                 "ProductSpecification": "200ml",
                                 "ProductPrice": 880,
                                 "ProductFocus": "huajingcuijinyanjingcuishui",
@@ -1165,7 +1136,7 @@
                             {
                                 "ID": 204,
                                 "ProductID": "ecs20005",
-                                "ProductName": "花菁萃紧颜蜜露精华",
+                                "ProductName": "花菁萃緊顏蜜露精華",
                                 "ProductSpecification": "30ml",
                                 "ProductPrice": 2500,
                                 "ProductFocus": "huajingcuijinyanmiloujinghua",
@@ -1178,7 +1149,7 @@
                             {
                                 "ID": 205,
                                 "ProductID": "ecs20006",
-                                "ProductName": "花菁萃紧颜焕活眼霜",
+                                "ProductName": "花菁萃緊顏煥活眼霜",
                                 "ProductSpecification": "15ml",
                                 "ProductPrice": 980,
                                 "ProductFocus": "huajingcuijinyanhuanhuoyanshuang",
@@ -1191,8 +1162,7 @@
                             {
                                 "ID": 206,
                                 "ProductID": "ecs20007",
-                                "ProductName": "花菁萃紧颜焕活滋养霜",
-                                "ProductDes": "激活肌肤非凡自愈能量，肌肤自然焕发宝石光芒",
+                                "ProductName": "花菁萃緊顏煥活滋養霜",
                                 "ProductSpecification": "50ml",
                                 "ProductPrice": 2500,
                                 "ProductFocus": "huajingcuijinyanhuanhuoziyangshuang",
@@ -1214,7 +1184,7 @@
                             {
                                 "ID": 302,
                                 "ProductID": "ecs30002",
-                                "ProductName": "告别油光海藻洁面泡泡",
+                                "ProductName": "告別油光海藻潔面泡泡",
                                 "ProductSpecification": "125ml",
                                 "ProductPrice": 250,
                                 "ProductFocus": "gaobieyouguanghaizaojiemianpaopao",
@@ -1227,7 +1197,7 @@
                             {
                                 "ID": 318,
                                 "ProductID": "ecs30018",
-                                "ProductName": "油田拜拜海藻精华乳",
+                                "ProductName": "油田拜拜海藻精華乳",
                                 "ProductSpecification": "100ml",
                                 "ProductPrice": 480,
                                 "ProductFocus": "youtianbaibaihaizaojinghuaru",
@@ -1240,7 +1210,7 @@
                             {
                                 "ID": 315,
                                 "ProductID": "ecs30015",
-                                "ProductName": "反恐精英海藻摇摇水",
+                                "ProductName": "反恐精英海藻搖搖水",
                                 "ProductSpecification": "150ml",
                                 "ProductPrice": 350,
                                 "ProductFocus": "fankongjingyinghaizaoyaoyaoshui",
@@ -1253,7 +1223,7 @@
                             {
                                 "ID": 303,
                                 "ProductID": "ecs30003",
-                                "ProductName": "告别油光海藻魔力皂",
+                                "ProductName": "告別油光海藻魔力皁",
                                 "ProductSpecification": "100g",
                                 "ProductPrice": 220,
                                 "ProductFocus": "gaobieyouguanghaizaomolizao",
@@ -1266,7 +1236,7 @@
                         ]
                     },
                     {
-                        "CatagoryName": "排浊提亮",
+                        "CatagoryName": "排濁提亮",
                         "CatagoryID": "300100400",
                         "Level": 3,
                         "Position": 300104,
@@ -1275,7 +1245,7 @@
                             {
                                 "ID": 110,
                                 "ProductID": "ecs10007",
-                                "ProductName": "鲜亮焕采泡沫洁面乳",
+                                "ProductName": "鮮亮煥採泡沫潔面乳",
                                 "ProductSpecification": "125ml",
                                 "ProductPrice": 280,
                                 "ProductFocus": "xianlianghuancaipaomojiemianru",
@@ -1288,7 +1258,7 @@
                             {
                                 "ID": 109,
                                 "ProductID": "ecs10006",
-                                "ProductName": "鲜活亮采能量水",
+                                "ProductName": "鮮活亮採能量水",
                                 "ProductSpecification": "200ml",
                                 "ProductPrice": 420,
                                 "ProductFocus": "xianhuoliangcainengliangshui",
@@ -1301,7 +1271,7 @@
                             {
                                 "ID": 316,
                                 "ProductID": "ecs30016",
-                                "ProductName": "鲜活亮采面霜",
+                                "ProductName": "鮮活亮採面霜",
                                 "ProductSpecification": "50ml",
                                 "ProductPrice": 590,
                                 "ProductFocus": "xianhuoliangcaimianshuang",
@@ -1314,7 +1284,7 @@
                             {
                                 "ID": 317,
                                 "ProductID": "ecs30017",
-                                "ProductName": "鲜活亮采晚霜",
+                                "ProductName": "鮮活亮採晚霜",
                                 "ProductSpecification": "50ml",
                                 "ProductPrice": 620,
                                 "ProductFocus": "xianhuoliangcaiwanshuang",
@@ -1336,7 +1306,7 @@
                             {
                                 "ID": 319,
                                 "ProductID": "ecs30019",
-                                "ProductName": "白金级淡斑精华膏",
+                                "ProductName": "白金級淡斑精華膏",
                                 "ProductSpecification": "30ml",
                                 "ProductPrice": 1120,
                                 "ProductFocus": "baijinjidanbanjinghuagao",
@@ -1351,9 +1321,9 @@
                                     "ecs10011"
                                 ],
                                 "ProductRecommendationDes": [
-                                    "紧致白皙，一键拥有",
-                                    "愈见透亮，耀出美肌",
-                                    "层层渗透，深润焕白"
+                                    "緊緻白皙，一鍵擁有",
+                                    "愈見透亮，耀出美肌",
+                                    "層層滲透，深潤煥白"
                                 ],
                                 "ProductDisplay": 1,
                                 "ProductStatus": 1
@@ -1361,7 +1331,7 @@
                             {
                                 "ID": 207,
                                 "ProductID": "ecs20008",
-                                "ProductName": "白金级花菁萃紧颜焕亮面霜",
+                                "ProductName": "白金級花菁萃緊顏煥亮面霜",
                                 "ProductSpecification": "50ml",
                                 "ProductPrice": 2500,
                                 "ProductFocus": "baijinjihuajingcuijinyanhuanliangmianshuang",
@@ -1374,7 +1344,7 @@
                             {
                                 "ID": 208,
                                 "ProductID": "ecs20009",
-                                "ProductName": "白金级花菁萃紧颜焕亮精华",
+                                "ProductName": "白金級花菁萃緊顏煥亮精華",
                                 "ProductSpecification": "30ml",
                                 "ProductPrice": 2500,
                                 "ProductFocus": "baijinjihuajingcuijinyanhuanliangjinghua",
@@ -1387,7 +1357,7 @@
                         ]
                     },
                     {
-                        "CatagoryName": "提拉紧致抗老",
+                        "CatagoryName": "提拉緊緻抗老",
                         "CatagoryID": "300100200",
                         "Level": 3,
                         "Position": 300102,
@@ -1396,8 +1366,7 @@
                             {
                                 "ID": 112,
                                 "ProductID": "ecs10009",
-                                "ProductName": "专研紧塑精华素",
-                                "ProductDes": "立体驻颜，肌肤水润，轮廓年轻",
+                                "ProductName": "專研緊塑精華素",
                                 "ProductSpecification": "50ml",
                                 "ProductPrice": 980,
                                 "ProductFocus": "zhuanyanjinsujinghuasu",
@@ -1413,18 +1382,17 @@
                                     "ecs10004"
                                 ],
                                 "ProductRecommendationDes": [
-                                    "多方位提拉紧致加乘密集修护力，美肌宛若天生",
-                                    "全脸立体支撑，卓效焕活肌肤",
-                                    "由眼及面，紧致年轻轮廓"
-                                ], 
+                                    "多方位提拉緊緻加乘密集修護力，美肌宛若天生",
+                                    "全臉立體支撐，卓效煥活肌膚",
+                                    "由眼及面，緊緻年輕輪廓"
+                                ],
                                 "ProductDisplay": 1,
                                 "ProductStatus": 1
                             },
                             {
                                 "ID": 111,
                                 "ProductID": "ecs10008",
-                                "ProductName": "多效智妍精华霜",
-                                "ProductDes": "双效加乘，由内而外 赋活美肌",
+                                "ProductName": "多效智妍精華霜",
                                 "ProductSpecification": "75ml",
                                 "ProductPrice": 920,
                                 "ProductFocus": "duoxiaozhiyanjinghuashuang",
@@ -1440,9 +1408,9 @@
                                     "ecs10002"
                                 ],
                                 "ProductRecommendationDes": [
-                                    "解决肌肤问题，从修护肌底微损伤开始",
-                                    "水润第一步，从赋活健康肌底开始",
-                                    "深彻修护，定格年轻"
+                                    "解決肌膚問題，從修護肌底微損傷開始",
+                                    "水潤第一步，從賦活健康肌底開始",
+                                    "深徹修護，定格年輕"
                                 ],
                                 "ProductDisplay": 1,
                                 "ProductStatus": 1
@@ -1450,8 +1418,7 @@
                             {
                                 "ID": 203,
                                 "ProductID": "ecs20004",
-                                "ProductName": "花菁萃紧颜精粹水",
-                                "ProductDes": "紧致白皙，一键拥有",
+                                "ProductName": "花菁萃緊顏精粹水",
                                 "ProductSpecification": "200ml",
                                 "ProductPrice": 880,
                                 "ProductFocus": "huajingcuijinyanjingcuishui",
@@ -1464,7 +1431,7 @@
                             {
                                 "ID": 204,
                                 "ProductID": "ecs20005",
-                                "ProductName": "花菁萃紧颜蜜露精华",
+                                "ProductName": "花菁萃緊顏蜜露精華",
                                 "ProductSpecification": "30ml",
                                 "ProductPrice": 2500,
                                 "ProductFocus": "huajingcuijinyanmiloujinghua",
@@ -1477,7 +1444,7 @@
                             {
                                 "ID": 205,
                                 "ProductID": "ecs20006",
-                                "ProductName": "花菁萃紧颜焕活眼霜",
+                                "ProductName": "花菁萃緊顏煥活眼霜",
                                 "ProductSpecification": "15ml",
                                 "ProductPrice": 980,
                                 "ProductFocus": "huajingcuijinyanhuanhuoyanshuang",
@@ -1490,8 +1457,7 @@
                             {
                                 "ID": 206,
                                 "ProductID": "ecs20007",
-                                "ProductName": "花菁萃紧颜焕活滋养霜",
-                                "ProductDes": "激活肌肤非凡自愈能量，肌肤自然焕发宝石光芒",
+                                "ProductName": "花菁萃緊顏煥活滋養霜",
                                 "ProductSpecification": "50ml",
                                 "ProductPrice": 2500,
                                 "ProductFocus": "huajingcuijinyanhuanhuoziyangshuang",
@@ -1504,8 +1470,7 @@
                             {
                                 "ID": 114,
                                 "ProductID": "ecs10011",
-                                "ProductName": "蕴能黑钻睡眠面膜",
-                                "ProductDes": "层层渗透，深润焕白",
+                                "ProductName": "蘊能黑鑽睡眠面膜",
                                 "ProductSpecification": "50ml",
                                 "ProductPrice": 3600,
                                 "ProductFocus": "yunnengheizuanshuimianmianmo",
@@ -1518,8 +1483,7 @@
                             {
                                 "ID": 201,
                                 "ProductID": "ecs20002",
-                                "ProductName": "蕴能黑钻奢华眼霜",
-                                "ProductDes": "双眸焕发傲视光采， 悦享奢润养肤能量",
+                                "ProductName": "蘊能黑鑽奢華眼霜",
                                 "ProductSpecification": "15ml",
                                 "ProductPrice": 2500,
                                 "ProductFocus": "yunnengheizuanshehuayanshuang",
@@ -1532,8 +1496,7 @@
                             {
                                 "ID": 202,
                                 "ProductID": "ecs20003",
-                                "ProductName": "蕴能双钻精华露",
-                                "ProductDes": "愈见透亮，耀出美肌",
+                                "ProductName": "蘊能雙鑽精華露",
                                 "ProductSpecification": "25ml",
                                 "ProductPrice": 3800,
                                 "ProductFocus": "yunnengshuangzuanjinghualou",
@@ -1546,7 +1509,7 @@
                         ]
                     },
                     {
-                        "CatagoryName": "补水保湿",
+                        "CatagoryName": "補水保溼",
                         "CatagoryID": "300100100",
                         "Level": 3,
                         "Position": 300101,
@@ -1555,8 +1518,7 @@
                             {
                                 "ID": 102,
                                 "ProductID": "ecs10001",
-                                "ProductName": "特润修护肌透精华露",
-                                "ProductDes": "由眼及面，放大肌肤修护力",
+                                "ProductName": "特潤修護肌透精華露",
                                 "ProductSpecification": "50ml",
                                 "ProductPrice": 850,
                                 "ProductFocus": "terunxiuhujitoujinghualou",
@@ -1568,13 +1530,13 @@
                                 "ProductVideo": [],
                                 "ProductRecommendation": [
                                     "ecs10003",
-                                    "ecs30005",
+                                    "ecs10004",
                                     "ecs10009"
                                 ],
                                 "ProductRecommendationDes": [
-                                    "开启赋活通道，加乘修护力",
-                                    "凝锁弹润，留驻“睛”彩",
-                                    "立体驻颜，肌肤水润，轮廓年轻"
+                                    "開啓賦活通道，加乘修護力",
+                                    "凝鎖彈潤，留駐“睛”彩",
+                                    "立體駐顏，肌膚水潤，輪廓年輕"
                                 ],
                                 "ProductDisplay": 1,
                                 "ProductStatus": 1
@@ -1582,8 +1544,7 @@
                             {
                                 "ID": 103,
                                 "ProductID": "ecs10002",
-                                "ProductName": "密集修护肌透面膜",
-                                "ProductDes": "深彻修护，定格年轻",
+                                "ProductName": "密集修護肌透面膜",
                                 "ProductSpecification": "4片",
                                 "ProductPrice": 680,
                                 "ProductFocus": "mijixiuhujitoumianmo",
@@ -1596,8 +1557,7 @@
                             {
                                 "ID": 104,
                                 "ProductID": "ecs10003",
-                                "ProductName": "肌底微精华",
-                                "ProductDes": "抹去肌肤疲劳感，萤润光彩尽现",
+                                "ProductName": "肌底微精華",
                                 "ProductSpecification": "150ml",
                                 "ProductPrice": 760,
                                 "ProductFocus": "jidiweijinghua",
@@ -1613,9 +1573,9 @@
                                     "ecs10008"
                                 ],
                                 "ProductRecommendationDes": [
-                                    "修护双精华，深达肌底修护肌因",
-                                    "由眼及面，修护滋养层层递进",
-                                    "双效加乘，由内而外赋活美肌"
+                                    "修護雙精華，深達肌底修護肌因",
+                                    "由眼及面，修護滋養層層遞進",
+                                    "雙效加乘，由內而外賦活美肌"
                                 ],
                                 "ProductDisplay": 1,
                                 "ProductStatus": 1
@@ -1623,7 +1583,7 @@
                             {
                                 "ID": 310,
                                 "ProductID": "ecs30010",
-                                "ProductName": "特润修护肌透精华胶囊",
+                                "ProductName": "特潤修護肌透精華膠囊",
                                 "ProductSpecification": "60粒",
                                 "ProductPrice": 1060,
                                 "ProductFocus": "terunxiuhujitoujinghuajiaonang",
@@ -1636,7 +1596,7 @@
                             {
                                 "ID": 311,
                                 "ProductID": "ecs30011",
-                                "ProductName": "肌透修护面膜精萃蜜",
+                                "ProductName": "肌透修護面膜精萃蜜",
                                 "ProductSpecification": "30ml",
                                 "ProductPrice": 680,
                                 "ProductFocus": "jitouxiuhumianmojingcuimi",
@@ -1649,8 +1609,7 @@
                             {
                                 "ID": 203,
                                 "ProductID": "ecs20004",
-                                "ProductName": "花菁萃紧颜精粹水",
-                                "ProductDes": "紧致白皙，一键拥有",
+                                "ProductName": "花菁萃緊顏精粹水",
                                 "ProductSpecification": "200ml",
                                 "ProductPrice": 880,
                                 "ProductFocus": "huajingcuijinyanjingcuishui",
@@ -1663,7 +1622,7 @@
                             {
                                 "ID": 204,
                                 "ProductID": "ecs20005",
-                                "ProductName": "花菁萃紧颜蜜露精华",
+                                "ProductName": "花菁萃緊顏蜜露精華",
                                 "ProductSpecification": "30ml",
                                 "ProductPrice": 2500,
                                 "ProductFocus": "huajingcuijinyanmiloujinghua",
@@ -1676,7 +1635,7 @@
                             {
                                 "ID": 205,
                                 "ProductID": "ecs20006",
-                                "ProductName": "花菁萃紧颜焕活眼霜",
+                                "ProductName": "花菁萃緊顏煥活眼霜",
                                 "ProductSpecification": "15ml",
                                 "ProductPrice": 980,
                                 "ProductFocus": "huajingcuijinyanhuanhuoyanshuang",
@@ -1689,8 +1648,7 @@
                             {
                                 "ID": 206,
                                 "ProductID": "ecs20007",
-                                "ProductName": "花菁萃紧颜焕活滋养霜",
-                                "ProductDes": "激活肌肤非凡自愈能量，肌肤自然焕发宝石光芒",
+                                "ProductName": "花菁萃緊顏煥活滋養霜",
                                 "ProductSpecification": "50ml",
                                 "ProductPrice": 2500,
                                 "ProductFocus": "huajingcuijinyanhuanhuoziyangshuang",
@@ -1709,13 +1667,13 @@
         "Product": []
     },
     {
-        "CatagoryName": "彩 妆",
+        "CatagoryName": "彩 妝",
         "CatagoryID": "400000000",
         "Level": 1,
         "Position": 4,
         "Child": [
             {
-                "CatagoryName": "唇部",
+                "CatagoryName": "脣部",
                 "CatagoryID": "400300000",
                 "Level": 2,
                 "Position": 4003,
@@ -1724,8 +1682,7 @@
                     {
                         "ID": 118,
                         "ProductID": "ecs10014",
-                        "ProductName": "倾慕唇膏系列",
-                        "ProductDes": "显色持久，妆容出众",
+                        "ProductName": "傾慕脣膏系列",
                         "ProductSpecification": "3.5g",
                         "ProductPrice": 300,
                         "ProductFocus": "qingmuchungaoxilie",
@@ -1741,9 +1698,9 @@
                             "ecs40004"
                         ],
                         "ProductRecommendationDes": [
-                            "抗油抗汗不脱妆，完美妆容即刻展现",
-                            "一抹轻盈水润，妆容更出色",
-                            "妆前打底，美唇梗滋润"
+                            "抗油抗汗不脫妝，完美妝容即刻展現",
+                            "一抹輕盈水潤，妝容更出色",
+                            "妝前打底，美脣梗滋潤"
                         ],
                         "ProductDisplay": 1,
                         "ProductStatus": 1
@@ -1751,8 +1708,7 @@
                     {
                         "ID": 403,
                         "ProductID": "ecs40003",
-                        "ProductName": "恋爱唇膏",
-                        "ProductDes": "玩转唇色，妆容添彩",
+                        "ProductName": "戀愛脣膏",
                         "ProductSpecification": "3.5g",
                         "ProductPrice": 230,
                         "ProductFocus": "lianaichungao",
@@ -1766,9 +1722,9 @@
                             "ecs40004"
                         ],
                         "ProductRecommendationDes": [
-                            "轻松get润帖奶油肌，好气色呼之欲出",
-                            "轻拍持妆无瑕，壹抹出色更出众",
-                            "妆前打底，美唇更滋润"
+                            "輕鬆get潤帖奶油肌，好氣色呼之欲出",
+                            "輕拍持妝無瑕，壹抹出色更出衆",
+                            "妝前打底，美脣更滋潤"
                         ],
                         "ProductDisplay": 1,
                         "ProductStatus": 1
@@ -1776,7 +1732,7 @@
                     {
                         "ID": 404,
                         "ProductID": "ecs40004",
-                        "ProductName": "花漾倾慕丰唇膏",
+                        "ProductName": "花漾傾慕豐脣膏",
                         "ProductSpecification": "3.5g",
                         "ProductPrice": 230,
                         "ProductFocus": "huayangqingmufengchungao",
@@ -1797,7 +1753,7 @@
                     {
                         "ID": 402,
                         "ProductID": "ecs40002",
-                        "ProductName": "持妆多效眉笔",
+                        "ProductName": "持妝多效眉筆",
                         "ProductSpecification": "0.2g+0.25g",
                         "ProductPrice": 280,
                         "ProductFocus": "chizhuangduoxiaomeibi",
@@ -1813,9 +1769,9 @@
                             "ecs40004"
                         ],
                         "ProductRecommendationDes": [
-                            "美妆干净俐落，底妆水润无瑕",
-                            "双眉轮廓立体有型，底妆更要轻薄持久",
-                            "眉妆俐落双唇出色，整体妆容瞬间出色"
+                            "美妝乾淨俐落，底妝水潤無瑕",
+                            "雙眉輪廓立體有型，底妝更要輕薄持久",
+                            "眉妝俐落雙脣出色，整體妝容瞬間出色"
                         ],
                         "ProductDisplay": 1,
                         "ProductStatus": 1
@@ -1833,7 +1789,6 @@
                         "ID": 400,
                         "ProductID": "ecs40000",
                         "ProductName": "沁水粉底液",
-                        "ProductDes": "一抹轻盈水润，妆容更出色",
                         "ProductSpecification": "SPF15/PA++ 30ml",
                         "ProductPrice": 480,
                         "ProductFocus": "qinshuifendiye",
@@ -1848,9 +1803,9 @@
                             "ecs40003"
                         ],
                         "ProductRecommendationDes": [
-                            "越“妆”越水润",
-                            "完美妆容，从赋活健康肌底开始",
-                            "玩转唇色，妆容添彩"
+                            "越“妝”越水潤",
+                            "完美妝容，從賦活健康肌底開始",
+                            "玩轉脣色，妝容添彩"
                         ],
                         "ProductDisplay": 1,
                         "ProductStatus": 1
@@ -1858,8 +1813,7 @@
                     {
                         "ID": 117,
                         "ProductID": "ecs10013",
-                        "ProductName": "持妆粉底液",
-                        "ProductDes": "抗油抗汗不脱妆，完美妆容即刻展现",
+                        "ProductName": "持妝粉底液",
                         "ProductSpecification": "30ml",
                         "ProductPrice": 390,
                         "ProductFocus": "chizhuangfendiye",
@@ -1874,9 +1828,9 @@
                             "ecs10014"
                         ],
                         "ProductRecommendationDes": [
-                            "底妆水润加倍，持久无瑕",
-                            "双眸焕亮睛采，底妆整日无瑕",
-                            "无惧油汗底妆，气色整日在线"
+                            "底妝水潤加倍，持久無瑕",
+                            "雙眸煥亮睛採，底妝整日無瑕",
+                            "無懼油汗底妝，氣色整日在線"
                         ],
                         "ProductDisplay": 1,
                         "ProductStatus": 1
@@ -1884,7 +1838,7 @@
                     {
                         "ID": 401,
                         "ProductID": "ecs40001",
-                        "ProductName": "白金级奢宠臻采粉底液",
+                        "ProductName": "白金級奢寵臻採粉底液",
                         "ProductSpecification": "SPF15/PA++ 30ml",
                         "ProductPrice": 880,
                         "ProductFocus": "baijinjishechongzhencaifendiye",
@@ -1899,9 +1853,9 @@
                             "ecs20002"
                         ],
                         "ProductRecommendationDes": [
-                            "提升肌肤自愈力，上妆后肌肤呈现闪亮好气色",
-                            "激活肌肤非凡自愈能量，肌肤自然焕发宝石光芒",
-                            "双眸焕发傲世光采，悦享奢润养肤能量"
+                            "提升肌膚自愈力，上妝後肌膚呈現閃亮好氣色",
+                            "激活肌膚非凡自愈能量，肌膚自然煥發寶石光芒",
+                            "雙眸煥發傲世光采，悅享奢潤養膚能量"
                         ],
                         "ProductDisplay": 1,
                         "ProductStatus": 1
@@ -1909,7 +1863,7 @@
                     {
                         "ID": 116,
                         "ProductID": "ecs10012",
-                        "ProductName": "持妆无瑕气垫",
+                        "ProductName": "持妝無瑕氣墊",
                         "ProductSpecification": "12g",
                         "ProductPrice": 420,
                         "ProductFocus": "chizhuangwuxiaqidian",
@@ -1924,9 +1878,9 @@
                             "ecs10014"
                         ],
                         "ProductRecommendationDes": [
-                            "完美底妆，从紧弹亮润肌底开始",
-                            "美肌状态满分，妆容时刻再现",
-                            "显色持久，妆容出众"
+                            "完美底妝，從緊彈亮潤肌底開始",
+                            "美肌狀態滿分，妝容時刻再現",
+                            "顯色持久，妝容出衆"
                         ],
                         "ProductDisplay": 1,
                         "ProductStatus": 1

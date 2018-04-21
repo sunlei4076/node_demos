@@ -1,5 +1,6 @@
 var pinyin = require("pinyin");
-
+var OpenCC = require('opencc');
+var opencc = new OpenCC('t2s.json');
 function translateToPinyin(str) {
   let py = pinyin(str, {
     style: pinyin.STYLE_NORMAL // 设置拼音风格
@@ -13,12 +14,11 @@ function translateToPinyin(str) {
 var path = require("path");
 var fs = require("fs");
 var rootPath = __filename;
-renameFilesInDir("/Users/sunlei/Library/Containers/com.tencent.xinWeChat/Data/Library/Application\ Support/com.tencent.xinWeChat/2.0b4.0.9/302e188d912c8a0be03a6a193e184d66/Message/MessageTemp/eadad77e54bcb0c5fa58c2ae0bbf9087/File/切图3/购物车补充6个产品");
-
+renameFilesInDir("/Users/sunlei/Desktop/++++")
 function changeFileName(filepath) {
   fs.stat(filepath, function(err, stats) {
     if (err) {
-      // console.warn('error', err)
+      // console.warn('error', err)n
       return
     }
     if (stats.isFile()) {
@@ -32,7 +32,7 @@ function changeFileName(filepath) {
       if (filename != thisFilename && filename.indexOf(parentDirname) < 0) {
         // var arr = filename.split("_")
         // if (arr.length > 0) {
-          var newName = translateToPinyin(filename)
+          var newName = translateToPinyin(opencc.convertSync(filename))
           var newPath = parentDir + "/" + newName;
           // console.log("going to rename from " + filepath + " to " + newPath);
           fs.rename(filepath, newPath);

@@ -6,7 +6,7 @@ console.log(simpl)
 var path = require("path");
 var fs = require("fs");
 var rootPath = __filename;
-renameFilesInDir("/Users/sunlei/Library/Containers/com.tencent.xinWeChat/Data/Library/Application\ Support/com.tencent.xinWeChat/2.0b4.0.9/302e188d912c8a0be03a6a193e184d66/Message/MessageTemp/eadad77e54bcb0c5fa58c2ae0bbf9087/File/切图3");
+renameFilesInDir("/Users/sunlei/Desktop/产品切图/列表页（购物车同比缩小即可）");
 
 function changeFileName(filepath) {
   fs.stat(filepath, function(err, stats) {
@@ -15,7 +15,7 @@ function changeFileName(filepath) {
       return
     }
     if (stats.isFile()) {
-      //console.log("isFile,chaning filename...");
+      // console.log(path.basename(filepath));
       var filename = path.basename(filepath);
       var parentDir = path.dirname(filepath);
       var parentDirname = path.basename(path.dirname(filepath));
@@ -25,7 +25,7 @@ function changeFileName(filepath) {
       if (filename != thisFilename && filename.indexOf(parentDirname) < 0) {
           var newName = opencc.convertSync(filename)
           var newPath = parentDir + "/" + newName;
-          console.log("going to rename from " + filepath + " to " + newPath);
+          // console.log(newName);
           fs.rename(filepath, newPath);
         // }
       }

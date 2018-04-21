@@ -1,40 +1,91 @@
 
 var fs = require('fs');
-var file = "/Users/sunlei/Git/node_demos/translate/data1.json";
-var result = JSON.parse(fs.readFileSync( file));
-console.dir(result)
-// var pinyin = require("pinyin");
+var data1Json = "/Users/sunlei/Git/node_demos/test/data.json"
 
-// function translateToPinyin(str) {
-//   let py = pinyin(str, {
-//     style: pinyin.STYLE_NORMAL // 设置拼音风格
-//   })
-//     .map(e => e[0])
-//     .join("")
-//     return py
-// }
-var OpenCC = require('opencc');
-var opencc = new OpenCC('s2t.json');
-// var simpl = opencc.convertSync("汉子");
+var data1Dic = JSON.parse(fs.readFileSync(data1Json));
 
+// // console.log(data1Dic)
+var ecpcIndex = 1
 function changeToPy(data, key) {
+  // console.log("changeToPy=------------>\n\n\n\n",data, '  \n\n\n\n')
   if (Array.isArray(data)) {
-      return data.map(e=>changeToPy(e))
-  } else if (typeof(data) == 'object'){
-    var keys = Object.keys(data)
-    var newObj = {}
-    keys.map(e=>{
-      if (e === 'ProductDes') {
-        return
+    // console.log("Array.isArray(data))=------------>\n\n\n\n",data, '  \n\n\n\n')
+    return data.map(e => changeToPy(e))
+  } else if (typeof (data) == 'object') {
+    // console.log("(typeof (data) == 'object')=------------>\n\n\n\n",data, '  \n\n\n\n')
+    if (data.CatagoryName) {
+      let keys = Object.keys(data)
+      let obj = {}
+       keys.map(e=>{
+         data[e]=changeToPy(data[e])
+       })
+       return data
+    } else {
+      // console.log('data.Suitable')
+      if (data.Suitable) {
+        var obj = {
+          "Type": "Package",
+          "ID": "ecpc0000"+ecpcIndex,
+          "Position": data.ID
+        }
+        var packageObj = {
+          "ID": 5,
+          "PackageID": "ecpc0000"+ecpcIndex,
+          "ProductID": data.Suit.map(e=>e.ProductID),
+          "PackageLayout": "UpDown",
+          "ProductLayout": "",
+          "PackageStatus": 10,
+          "PackageCreateTime": "2018-04-13 17:42:00",
+          "PackageFocus": data.SuitFocus,
+          "PackageName": "packeg测试"+ecpcIndex
+        }
+        data2Dic.ResultData.PackageList["ecpc0000"+ecpcIndex] = packageObj
+        data.Suit.map(e=>{
+          // var obj = {
+          //   "Type": "Product",
+          //   "ID": e.ProductID,
+          //   "Position": data.ID
+          // }
+          data2Dic.ResultData.ProductList[data.ProductID] = e
+        })
+        ecpcIndex ++
+        return obj
       } else {
-        newObj[e] = changeToPy(data[e],e)
+        // console.log('data.Productcl')
+        var obj = {
+          "Type": "Product",
+          "ID": data.ProductID,
+          "Position": data.ID
+        }
+        console.log(data.ProductContent)
+        data2Dic.ResultData.ProductList[data.ProductID] = data
+        return obj
       }
-    })
-    return newObj
-  } else {
-      return data
+    }
+   } else {
+     return data
   }
 }
-var newresult = changeToPy(result)
-// console.log(newresult)
-fs.writeFileSync("/Users/sunlei/Git/node_demos/translate/data2.json", JSON.stringify(newresult));
+
+
+var data2Dic = {
+  "IsSuccess": true,
+  "Message": "",
+  "Text": "获取成功",
+  "ReturnUrl": "",
+  "ResultData": {
+    "IsChange": "False",
+    "NowVersion": "1.0",
+    "DataList": [
+    ],
+    "ProductList": {
+
+    },
+    "PackageList": {
+
+    }
+  }
+}
+data2Dic.ResultData.DataList = changeToPy(data1Dic)
+
+fs.writeFileSync("/Users/sunlei/Git/node_demos/test/data2.json", JSON.stringify(data2Dic));

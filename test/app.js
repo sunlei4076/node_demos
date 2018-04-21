@@ -6,7 +6,7 @@ var app = express();
 var publicPath = path.resolve(__dirname, "src"); 
 app.use(express.static(publicPath)); 
 app.get('/data',function(request, response) {
-    fs.readFileSync("./src/data.json")
+    let data = fs.readFileSync("./src/data.json")
     response.json(JSON.parse(data))
 });
 app.use(function(request, response) {

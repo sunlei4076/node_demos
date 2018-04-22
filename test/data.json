@@ -697,8 +697,8 @@
                 "ProductPrice": 420,
                 "ProductFocus": "chizhuangwuxiaqidian.png",
                 "ProductContent": [
-                    "chizhuangwuxiaqidian_1.jpg",
-                    "chizhuangwuxiaqidian_2.jpg"
+                    "detail/chizhuangwuxiaqidian_1.jpg",
+                    "detail/chizhuangwuxiaqidian_2.jpg"
                 ],
                 "ProductVideo": [],
                 "ProductRecommendation": [
@@ -712,7 +712,10 @@
                     "顯色持久，妝容出衆"
                 ],
                 "ProductDisplay": 1,
-                "ProductStatus": 1
+                "ProductStatus": 1,
+                "listFocus": "list/chizhuangwuxiaqidian.png",
+                "shopCarFocus": "shopcar/chizhuangwuxiaqidian.png",
+                "recommendFocus": "recommend/chizhuangwuxiaqidian.png"
             },
             "ecs10003": {
                 "ID": 104,
@@ -722,9 +725,9 @@
                 "ProductPrice": 760,
                 "ProductFocus": "jidiweijinghua.png",
                 "ProductContent": [
-                    "jidiweijinghua_1.jpg",
-                    "jidiweijinghua_2.jpg",
-                    "jidiweijinghua_3.jpg"
+                    "detail/jidiweijinghua_1.jpg",
+                    "detail/jidiweijinghua_2.jpg",
+                    "detail/jidiweijinghua_3.jpg"
                 ],
                 "ProductVideo": [],
                 "ProductRecommendation": [
@@ -738,7 +741,11 @@
                     "雙效加乘，由內而外賦活美肌"
                 ],
                 "ProductDisplay": 1,
-                "ProductStatus": 1
+                "ProductStatus": 1,
+                "indexFocus": "index/jidiweijinghua.png",
+                "shopCarFocus": "shopcar/jidiweijinghua.png",
+                "listFocus": "list/jidiweijinghua.png",
+                "recommendFocus": "recommend/jidiweijinghua.png"
             },
             "ecs10008": {
                 "ID": 111,
@@ -748,9 +755,9 @@
                 "ProductPrice": 920,
                 "ProductFocus": "duoxiaozhiyanjinghuashuang.png",
                 "ProductContent": [
-                    "duoxiaozhiyanjinghuashuang_1.jpg",
-                    "duoxiaozhiyanjinghuashuang_2.jpg",
-                    "duoxiaozhiyanjinghuashuang_3.jpg"
+                    "detail/duoxiaozhiyanjinghuashuang_1.jpg",
+                    "detail/duoxiaozhiyanjinghuashuang_2.jpg",
+                    "detail/duoxiaozhiyanjinghuashuang_3.jpg"
                 ],
                 "ProductVideo": [],
                 "ProductRecommendation": [
@@ -764,7 +771,11 @@
                     "深徹修護，定格年輕"
                 ],
                 "ProductDisplay": 1,
-                "ProductStatus": 1
+                "ProductStatus": 1,
+                "indexFocus": "index/duoxiaozhiyanjinghuashuang.png",
+                "shopCarFocus": "shopcar/duoxiaozhiyanjinghuashuang.png",
+                "listFocus": "list/duoxiaozhiyanjinghuashuang.png",
+                "recommendFocus": "recommend/duoxiaozhiyanjinghuashuang.png"
             },
             "ecs10009": {
                 "ID": 112,
@@ -774,9 +785,9 @@
                 "ProductPrice": 980,
                 "ProductFocus": "zhuanyanjinsujinghuasu.png",
                 "ProductContent": [
-                    "zhuanyanjinsujinghuasu_1.jpg",
-                    "zhuanyanjinsujinghuasu_2.jpg",
-                    "zhuanyanjinsujinghuasu_3.jpg"
+                    "detail/zhuanyanjinsujinghuasu_1.jpg",
+                    "detail/zhuanyanjinsujinghuasu_2.jpg",
+                    "detail/zhuanyanjinsujinghuasu_3.jpg"
                 ],
                 "ProductVideo": [],
                 "ProductRecommendation": [
@@ -790,7 +801,11 @@
                     "由眼及面，緊緻年輕輪廓"
                 ],
                 "ProductDisplay": 1,
-                "ProductStatus": 1
+                "ProductStatus": 1,
+                "indexFocus": "index/zhuanyanjinsujinghuasu.png",
+                "shopCarFocus": "shopcar/zhuanyanjinsujinghuasu.png",
+                "listFocus": "list/zhuanyanjinsujinghuasu.png",
+                "recommendFocus": "recommend/zhuanyanjinsujinghuasu.png"
             },
             "ecs10010": {
                 "ID": 113,
@@ -800,8 +815,8 @@
                 "ProductPrice": 520,
                 "ProductFocus": "jingtouqinbaifangshaishuang.png",
                 "ProductContent": [
-                    "jingtouqinbaifangshaishuang_1.jpg",
-                    "jingtouqinbaifangshaishuang_2.jpg"
+                    "detail/jingtouqinbaifangshaishuang_1.jpg",
+                    "detail/jingtouqinbaifangshaishuang_2.jpg"
                 ],
                 "ProductVideo": [],
                 "ProductRecommendation": [
@@ -815,7 +830,10 @@
                     "肌膚悅享輕盈防護，多彩脣色更添元氣"
                 ],
                 "ProductDisplay": 1,
-                "ProductStatus": 1
+                "ProductStatus": 1,
+                "indexFocus": "index/jingtouqinbaifangshaishuang.png",
+                "shopCarFocus": "shopcar/jingtouqinbaifangshaishuang.png",
+                "listFocus": "list/jingtouqinbaifangshaishuang.png"
             },
             "ecs10011": {
                 "ID": 114,
@@ -828,7 +846,11 @@
                 "ProductVideo": [],
                 "ProductRecommendation": [],
                 "ProductDisplay": 1,
-                "ProductStatus": 0
+                "ProductStatus": 0,
+                "indexFocus": "index/yunnengheizuanshuimianmianmo.png",
+                "shopCarFocus": "shopcar/yunnengheizuanshuimianmianmo.png",
+                "listFocus": "list/yunnengheizuanshuimianmianmo.png",
+                "recommendFocus": "recommend/yunnengheizuanshuimianmianmo.png"
             },
             "ecs10014": {
                 "ID": 118,
@@ -838,9 +860,9 @@
                 "ProductPrice": 270,
                 "ProductFocus": "qingmuchungaoxilie.png",
                 "ProductContent": [
-                    "qingmuchungaoxilie_1.jpg",
-                    "qingmuchungaoxilie_2.jpg",
-                    "qingmuchungaoxilie_3.jpg"
+                    "detail/qingmuchungaoxilie_1.jpg",
+                    "detail/qingmuchungaoxilie_2.jpg",
+                    "detail/qingmuchungaoxilie_3.jpg"
                 ],
                 "ProductVideo": [],
                 "ProductRecommendation": [
@@ -854,7 +876,11 @@
                     "妝前打底，美脣梗滋潤"
                 ],
                 "ProductDisplay": 1,
-                "ProductStatus": 1
+                "ProductStatus": 1,
+                "indexFocus": "index/qingmuchungaoxilie.png",
+                "shopCarFocus": "shopcar/qingmuchungaoxilie.png",
+                "listFocus": "list/qingmuchungaoxilie.png",
+                "recommendFocus": "recommend/qingmuchungaoxilie.png"
             },
             "ecs20002": {
                 "ID": 201,
@@ -867,7 +893,10 @@
                 "ProductVideo": [],
                 "ProductRecommendation": [],
                 "ProductDisplay": 1,
-                "ProductStatus": 0
+                "ProductStatus": 0,
+                "listFocus": "list/yunnengheizuanshehuayanshuang.png",
+                "shopCarFocus": "shopcar/yunnengheizuanshehuayanshuang.png",
+                "recommendFocus": "recommend/yunnengheizuanshehuayanshuang.png"
             },
             "ecs20003": {
                 "ID": 202,
@@ -880,7 +909,10 @@
                 "ProductVideo": [],
                 "ProductRecommendation": [],
                 "ProductDisplay": 1,
-                "ProductStatus": 0
+                "ProductStatus": 0,
+                "listFocus": "list/yunnengshuangzuanjinghualou.png",
+                "shopCarFocus": "shopcar/yunnengshuangzuanjinghualou.png",
+                "recommendFocus": "recommend/yunnengshuangzuanjinghualou.png"
             },
             "ecs20004": {
                 "ID": 203,
@@ -893,7 +925,10 @@
                 "ProductVideo": [],
                 "ProductRecommendation": [],
                 "ProductDisplay": 1,
-                "ProductStatus": 0
+                "ProductStatus": 0,
+                "listFocus": "list/huajingcuijinyanjingcuishui.png",
+                "shopCarFocus": "shopcar/huajingcuijinyanjingcuishui.png",
+                "recommendFocus": "recommend/huajingcuijinyanjingcuishui.png"
             },
             "ecs20005": {
                 "ID": 204,
@@ -906,7 +941,9 @@
                 "ProductVideo": [],
                 "ProductRecommendation": [],
                 "ProductDisplay": 1,
-                "ProductStatus": 0
+                "ProductStatus": 0,
+                "listFocus": "list/huajingcuijinyanmiloujinghua.png",
+                "shopCarFocus": "shopcar/huajingcuijinyanmiloujinghua.png"
             },
             "ecs20006": {
                 "ID": 205,
@@ -919,7 +956,9 @@
                 "ProductVideo": [],
                 "ProductRecommendation": [],
                 "ProductDisplay": 1,
-                "ProductStatus": 0
+                "ProductStatus": 0,
+                "listFocus": "list/huajingcuijinyanhuanhuoyanshuang.png",
+                "shopCarFocus": "shopcar/huajingcuijinyanhuanhuoyanshuang.png"
             },
             "ecs20007": {
                 "ID": 206,
@@ -932,7 +971,10 @@
                 "ProductVideo": [],
                 "ProductRecommendation": [],
                 "ProductDisplay": 1,
-                "ProductStatus": 0
+                "ProductStatus": 0,
+                "listFocus": "list/huajingcuijinyanhuanhuoziyangshuang.png",
+                "shopCarFocus": "shopcar/huajingcuijinyanhuanhuoziyangshuang.png",
+                "recommendFocus": "recommend/huajingcuijinyanhuanhuoziyangshuang.png"
             },
             "ecs20008": {
                 "ID": 207,
@@ -945,7 +987,9 @@
                 "ProductVideo": [],
                 "ProductRecommendation": [],
                 "ProductDisplay": 1,
-                "ProductStatus": 0
+                "ProductStatus": 0,
+                "listFocus": "list/baijinjihuajingcuijinyanhuanliangmianshuang.png",
+                "shopCarFocus": "shopcar/baijinjihuajingcuijinyanhuanliangmianshuang.png"
             },
             "ecs20009": {
                 "ID": 208,
@@ -958,7 +1002,9 @@
                 "ProductVideo": [],
                 "ProductRecommendation": [],
                 "ProductDisplay": 1,
-                "ProductStatus": 0
+                "ProductStatus": 0,
+                "listFocus": "list/baijinjihuajingcuijinyanhuanliangjinghua.png",
+                "shopCarFocus": "shopcar/baijinjihuajingcuijinyanhuanliangjinghua.png"
             },
             "ecs10007": {
                 "ID": 110,
@@ -971,7 +1017,9 @@
                 "ProductVideo": [],
                 "ProductRecommendation": [],
                 "ProductDisplay": 1,
-                "ProductStatus": 0
+                "ProductStatus": 0,
+                "listFocus": "list/xianlianghuancaipaomojiemianru.png",
+                "shopCarFocus": "shopcar/xianlianghuancaipaomojiemianru.png"
             },
             "ecs30002": {
                 "ID": 302,
@@ -984,7 +1032,9 @@
                 "ProductVideo": [],
                 "ProductRecommendation": [],
                 "ProductDisplay": 1,
-                "ProductStatus": 0
+                "ProductStatus": 0,
+                "listFocus": "list/gaobieyouguanghaizaojiemianpaopao.png",
+                "shopCarFocus": "shopcar/gaobieyouguanghaizaojiemianpaopao.png"
             },
             "ecs30003": {
                 "ID": 303,
@@ -997,7 +1047,9 @@
                 "ProductVideo": [],
                 "ProductRecommendation": [],
                 "ProductDisplay": 1,
-                "ProductStatus": 0
+                "ProductStatus": 0,
+                "listFocus": "list/gaobieyouguanghaizaomolizao.png",
+                "shopCarFocus": "shopcar/gaobieyouguanghaizaomolizao.png"
             },
             "ecs10004": {
                 "ID": 106,
@@ -1007,9 +1059,9 @@
                 "ProductPrice": 560,
                 "ProductFocus": "jitouxiuhuyanbumijijinghualou.png",
                 "ProductContent": [
-                    "jitouxiuhuyanbumijijinghualou_1.jpg",
-                    "jitouxiuhuyanbumijijinghualou_2.jpg",
-                    "jitouxiuhuyanbumijijinghualou_3.jpg"
+                    "detail/jitouxiuhuyanbumijijinghualou_1.jpg",
+                    "detail/jitouxiuhuyanbumijijinghualou_2.jpg",
+                    "detail/jitouxiuhuyanbumijijinghualou_3.jpg"
                 ],
                 "ProductVideo": [],
                 "ProductRecommendation": [
@@ -1023,7 +1075,10 @@
                     "眼周注入雙倍精華，瞬間“電力”滿格"
                 ],
                 "ProductDisplay": 1,
-                "ProductStatus": 1
+                "ProductStatus": 1,
+                "listFocus": "list/jitouxiuhuyanbumijijinghualou.png",
+                "shopCarFocus": "shopcar/jitouxiuhuyanbumijijinghualou.png",
+                "recommendFocus": "recommend/jitouxiuhuyanbumijijinghualou.png"
             },
             "ecs30005": {
                 "ID": 305,
@@ -1036,7 +1091,10 @@
                 "ProductVideo": [],
                 "ProductRecommendation": [],
                 "ProductDisplay": 1,
-                "ProductStatus": 0
+                "ProductStatus": 0,
+                "listFocus": "list/jitouxiuhumijijinghuayanmo.png",
+                "shopCarFocus": "shopcar/jitouxiuhumijijinghuayanmo.png",
+                "recommendFocus": "recommend/jitouxiuhumijijinghuayanmo.png"
             },
             "ecs10005": {
                 "ID": 107,
@@ -1046,9 +1104,9 @@
                 "ProductPrice": 590,
                 "ProductFocus": "xiaozongpingmijixiuhuyanjinghua.png",
                 "ProductContent": [
-                    "xiaozongpingmijixiuhuyanjinghua_1.jpg",
-                    "xiaozongpingmijixiuhuyanjinghua_2.jpg",
-                    "xiaozongpingmijixiuhuyanjinghua_3.jpg"
+                    "detail/xiaozongpingmijixiuhuyanjinghua_1.jpg",
+                    "detail/xiaozongpingmijixiuhuyanjinghua_2.jpg",
+                    "detail/xiaozongpingmijixiuhuyanjinghua_3.jpg"
                 ],
                 "ProductVideo": [],
                 "ProductRecommendation": [
@@ -1062,7 +1120,9 @@
                     "年輕大眼搭檔，keep眼周最佳狀態"
                 ],
                 "ProductDisplay": 1,
-                "ProductStatus": 1
+                "ProductStatus": 1,
+                "listFocus": "list/xiaozongpingmijixiuhuyanjinghua.png",
+                "shopCarFocus": "shopcar/xiaozongpingmijixiuhuyanjinghua.png"
             },
             "ecs10002": {
                 "ID": 103,
@@ -1075,7 +1135,10 @@
                 "ProductVideo": [],
                 "ProductRecommendation": [],
                 "ProductDisplay": 1,
-                "ProductStatus": 0
+                "ProductStatus": 0,
+                "listFocus": "list/mijixiuhujitoumianmo.png",
+                "shopCarFocus": "shopcar/mijixiuhujitoumianmo.png",
+                "recommendFocus": "recommend/mijixiuhujitoumianmo.png"
             },
             "ecs10001": {
                 "ID": 102,
@@ -1085,9 +1148,9 @@
                 "ProductPrice": 850,
                 "ProductFocus": "terunxiuhujitoujinghualou.png",
                 "ProductContent": [
-                    "terunxiuhujitoujinghualou_1.jpg",
-                    "terunxiuhujitoujinghualou_2.jpg",
-                    "terunxiuhujitoujinghualou_3.jpg"
+                    "detail/terunxiuhujitoujinghualou_1.jpg",
+                    "detail/terunxiuhujitoujinghualou_2.jpg",
+                    "detail/terunxiuhujitoujinghualou_3.jpg"
                 ],
                 "ProductVideo": [],
                 "ProductRecommendation": [
@@ -1101,7 +1164,10 @@
                     "立體駐顏，肌膚水潤，輪廓年輕"
                 ],
                 "ProductDisplay": 1,
-                "ProductStatus": 1
+                "ProductStatus": 1,
+                "listFocus": "list/terunxiuhujitoujinghualou.png",
+                "shopCarFocus": "shopcar/terunxiuhujitoujinghualou.png",
+                "recommendFocus": "recommend/terunxiuhujitoujinghualou.png"
             },
             "ecs30010": {
                 "ID": 310,
@@ -1114,7 +1180,9 @@
                 "ProductVideo": [],
                 "ProductRecommendation": [],
                 "ProductDisplay": 1,
-                "ProductStatus": 0
+                "ProductStatus": 0,
+                "listFocus": "list/terunxiuhujitoujinghuajiaonang.png",
+                "shopCarFocus": "shopcar/terunxiuhujitoujinghuajiaonang.png"
             },
             "ecs30011": {
                 "ID": 311,
@@ -1127,7 +1195,9 @@
                 "ProductVideo": [],
                 "ProductRecommendation": [],
                 "ProductDisplay": 1,
-                "ProductStatus": 0
+                "ProductStatus": 0,
+                "listFocus": "list/jitouxiuhumianmojingcuimi.png",
+                "shopCarFocus": "shopcar/jitouxiuhumianmojingcuimi.png"
             },
             "ecs10006": {
                 "ID": 109,
@@ -1140,7 +1210,9 @@
                 "ProductVideo": [],
                 "ProductRecommendation": [],
                 "ProductDisplay": 1,
-                "ProductStatus": 0
+                "ProductStatus": 0,
+                "listFocus": "list/xianhuoliangcainengliangshui.png",
+                "shopCarFocus": "shopcar/xianhuoliangcainengliangshui.png"
             },
             "ecs30015": {
                 "ID": 315,
@@ -1153,7 +1225,9 @@
                 "ProductVideo": [],
                 "ProductRecommendation": [],
                 "ProductDisplay": 1,
-                "ProductStatus": 0
+                "ProductStatus": 0,
+                "listFocus": "list/fankongjingyinghaizaoyaoyaoshui.png",
+                "shopCarFocus": "shopcar/fankongjingyinghaizaoyaoyaoshui.png"
             },
             "ecs30016": {
                 "ID": 316,
@@ -1166,7 +1240,9 @@
                 "ProductVideo": [],
                 "ProductRecommendation": [],
                 "ProductDisplay": 1,
-                "ProductStatus": 0
+                "ProductStatus": 0,
+                "listFocus": "list/xianhuoliangcaimianshuang.png",
+                "shopCarFocus": "shopcar/xianhuoliangcaimianshuang.png"
             },
             "ecs30017": {
                 "ID": 317,
@@ -1179,7 +1255,9 @@
                 "ProductVideo": [],
                 "ProductRecommendation": [],
                 "ProductDisplay": 1,
-                "ProductStatus": 0
+                "ProductStatus": 0,
+                "listFocus": "list/xianhuoliangcaiwanshuang.png",
+                "shopCarFocus": "shopcar/xianhuoliangcaiwanshuang.png"
             },
             "ecs30018": {
                 "ID": 318,
@@ -1192,7 +1270,9 @@
                 "ProductVideo": [],
                 "ProductRecommendation": [],
                 "ProductDisplay": 1,
-                "ProductStatus": 0
+                "ProductStatus": 0,
+                "listFocus": "list/youtianbaibaihaizaojinghuaru.png",
+                "shopCarFocus": "shopcar/youtianbaibaihaizaojinghuaru.png"
             },
             "ecs30019": {
                 "ID": 319,
@@ -1202,8 +1282,8 @@
                 "ProductPrice": 1120,
                 "ProductFocus": "baijinjidanbanjinghuagao.png",
                 "ProductContent": [
-                    "baijinjidanbanjinghuagao_1.jpg",
-                    "baijinjidanbanjinghuagao_2.jpg"
+                    "detail/baijinjidanbanjinghuagao_1.jpg",
+                    "detail/baijinjidanbanjinghuagao_2.jpg"
                 ],
                 "ProductVideo": [],
                 "ProductRecommendation": [
@@ -1217,7 +1297,9 @@
                     "層層滲透，深潤煥白"
                 ],
                 "ProductDisplay": 1,
-                "ProductStatus": 1
+                "ProductStatus": 1,
+                "listFocus": "list/baijinjidanbanjinghuagao.png",
+                "shopCarFocus": "shopcar/baijinjidanbanjinghuagao.png"
             },
             "ecs40003": {
                 "ID": 403,
@@ -1227,7 +1309,7 @@
                 "ProductPrice": 230,
                 "ProductFocus": "lianaichungao.png",
                 "ProductContent": [
-                    "lianaichungao_1.jpg"
+                    "detail/lianaichungao_1.jpg"
                 ],
                 "ProductVideo": [],
                 "ProductRecommendation": [
@@ -1241,7 +1323,10 @@
                     "妝前打底，美脣更滋潤"
                 ],
                 "ProductDisplay": 1,
-                "ProductStatus": 1
+                "ProductStatus": 1,
+                "listFocus": "list/lianaichungao.png",
+                "shopCarFocus": "shopcar/lianaichungao.png",
+                "recommendFocus": "recommend/lianaichungao.png"
             },
             "ecs40004": {
                 "ID": 404,
@@ -1253,7 +1338,10 @@
                 "ProductVideo": [],
                 "ProductRecommendation": [],
                 "ProductDisplay": 0,
-                "ProductStatus": 0
+                "ProductStatus": 0,
+                "listFocus": "list/huayangqingmufengchungao.png",
+                "shopCarFocus": "shopcar/huayangqingmufengchungao.png",
+                "recommendFocus": "recommend/huayangqingmufengchungao.png"
             },
             "ecs40002": {
                 "ID": 402,
@@ -1263,9 +1351,9 @@
                 "ProductPrice": 280,
                 "ProductFocus": "chizhuangduoxiaomeibi.png",
                 "ProductContent": [
-                    "chizhuangduoxiaomeibi_1.jpg",
-                    "chizhuangduoxiaomeibi_2.jpg",
-                    "chizhuangduoxiaomeibi_3.jpg"
+                    "detail/chizhuangduoxiaomeibi_1.jpg",
+                    "detail/chizhuangduoxiaomeibi_2.jpg",
+                    "detail/chizhuangduoxiaomeibi_3.jpg"
                 ],
                 "ProductVideo": [],
                 "ProductRecommendation": [
@@ -1279,7 +1367,9 @@
                     "眉妝俐落雙脣出色，整體妝容瞬間出色"
                 ],
                 "ProductDisplay": 1,
-                "ProductStatus": 1
+                "ProductStatus": 1,
+                "listFocus": "list/chizhuangduoxiaomeibi.png",
+                "shopCarFocus": "shopcar/chizhuangduoxiaomeibi.png"
             },
             "ecs40000": {
                 "ID": 400,
@@ -1289,8 +1379,8 @@
                 "ProductPrice": 480,
                 "ProductFocus": "qinshuifendiye.png",
                 "ProductContent": [
-                    "qinshuifendiye_1.jpg",
-                    "qinshuifendiye_2.jpg"
+                    "detail/qinshuifendiye_1.jpg",
+                    "detail/qinshuifendiye_2.jpg"
                 ],
                 "ProductVideo": [],
                 "ProductRecommendation": [
@@ -1304,7 +1394,10 @@
                     "玩轉脣色，妝容添彩"
                 ],
                 "ProductDisplay": 1,
-                "ProductStatus": 1
+                "ProductStatus": 1,
+                "listFocus": "list/qinshuifendiye.png",
+                "shopCarFocus": "shopcar/qinshuifendiye.png",
+                "recommendFocus": "recommend/qinshuifendiye.png"
             },
             "ecs10013": {
                 "ID": 117,
@@ -1314,8 +1407,8 @@
                 "ProductPrice": 390,
                 "ProductFocus": "chizhuangfendiye.png",
                 "ProductContent": [
-                    "chizhuangfendiye_1.jpg",
-                    "chizhuangfendiye_2.jpg"
+                    "detail/chizhuangfendiye_1.jpg",
+                    "detail/chizhuangfendiye_2.jpg"
                 ],
                 "ProductVideo": [],
                 "ProductRecommendation": [
@@ -1329,7 +1422,10 @@
                     "無懼油汗底妝，氣色整日在線"
                 ],
                 "ProductDisplay": 1,
-                "ProductStatus": 1
+                "ProductStatus": 1,
+                "listFocus": "list/chizhuangfendiye.png",
+                "shopCarFocus": "shopcar/chizhuangfendiye.png",
+                "recommendFocus": "recommend/chizhuangfendiye.png"
             },
             "ecs40001": {
                 "ID": 401,
@@ -1339,8 +1435,8 @@
                 "ProductPrice": 880,
                 "ProductFocus": "baijinjishechongzhencaifendiye.png",
                 "ProductContent": [
-                    "baijinjishechongzhencaifendiye_1.jpg",
-                    "baijinjishechongzhencaifendiye_2.jpg"
+                    "detail/baijinjishechongzhencaifendiye_1.jpg",
+                    "detail/baijinjishechongzhencaifendiye_2.jpg"
                 ],
                 "ProductVideo": [],
                 "ProductRecommendation": [
@@ -1354,7 +1450,9 @@
                     "雙眸煥發傲世光采，悅享奢潤養膚能量"
                 ],
                 "ProductDisplay": 1,
-                "ProductStatus": 1
+                "ProductStatus": 1,
+                "listFocus": "list/baijinjishechongzhencaifendiye.png",
+                "shopCarFocus": "shopcar/baijinjishechongzhencaifendiye.png"
             }
         },
         "PackageList": {
@@ -1370,7 +1468,8 @@
                 "PackageStatus": 10,
                 "PackageCreateTime": "2018-04-13 17:42:00",
                 "PackageFocus": "terunxiuhujitoujinghualou&mijixiuhujitoumianmo.png",
-                "PackageName": "packeg测试1"
+                "PackageName": "packeg测试1",
+                "indexFocus": "index/terunxiuhujitoujinghualou&mijixiuhujitoumianmo.png"
             },
             "ecpc00002": {
                 "ID": 5,
@@ -1384,7 +1483,8 @@
                 "PackageStatus": 10,
                 "PackageCreateTime": "2018-04-13 17:42:00",
                 "PackageFocus": "jitouxiuhuyanbumijijinghualou&xiaozongpingmijixiuhuyanjinghua.png",
-                "PackageName": "packeg测试2"
+                "PackageName": "packeg测试2",
+                "indexFocus": "index/jitouxiuhuyanbumijijinghualou&xiaozongpingmijixiuhuyanjinghua.png"
             },
             "ecpc00003": {
                 "ID": 5,
@@ -1398,7 +1498,8 @@
                 "PackageStatus": 10,
                 "PackageCreateTime": "2018-04-13 17:42:00",
                 "PackageFocus": "xianhuoliangcainengliangshui&xianlianghuancaipaomojiemianru.png",
-                "PackageName": "packeg测试3"
+                "PackageName": "packeg测试3",
+                "indexFocus": "index/xianhuoliangcainengliangshui&xianlianghuancaipaomojiemianru.png"
             },
             "ecpc00004": {
                 "ID": 5,
@@ -1412,7 +1513,8 @@
                 "PackageStatus": 10,
                 "PackageCreateTime": "2018-04-13 17:42:00",
                 "PackageFocus": "chizhuangwuxiaqidian&chizhuangfendiye.png",
-                "PackageName": "packeg测试4"
+                "PackageName": "packeg测试4",
+                "indexFocus": "index/chizhuangwuxiaqidian&chizhuangfendiye.png"
             }
         }
     }

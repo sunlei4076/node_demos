@@ -13,7 +13,7 @@ app.use(function(request, response) {
     response.writeHead(404);
     response.end('404!')
 });
-http.createServer(app).listen(3001);
+http.createServer(app).listen(80);
 
 // 1、接口地址：
 // "http://47.98.133.108/data"
